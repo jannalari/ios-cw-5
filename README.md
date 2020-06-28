@@ -5,7 +5,9 @@
  
 ### خطوات 
 
-1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-5)
+1. افتح رابط الواجب من [هنا](
+https://github.com/kuwaitcodes/ios-cw-5
+)
 2. لمجلد الواجب Fork قم بعمل
 3. Open in GitHub Desktop قم بفتح الواجب عن طريق 
 4. Xcode قم بإنشاء مشروع جديد بالـ
